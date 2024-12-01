@@ -5,9 +5,6 @@ const App = () => {
   return (
     <div className="App">
       <Calculator />
-      <p className="developer">
-        Developed by 🧑‍💻 <span>TheProjectCode</span>
-      </p>
     </div>
   );
 };
